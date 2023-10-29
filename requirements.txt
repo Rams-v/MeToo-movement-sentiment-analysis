@@ -5,3 +5,4 @@ plotly==5.1.0
 wordcloud==1.8.1
 spacy==3.2.0
 vaderSentiment==3.3.2
+contractions==0.0.52
